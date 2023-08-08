@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "751174768859",
+    "project_id": "ears-5b7a1",
+    "storage_bucket": "ears-5b7a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751174768859:android:c806409fabcac3b37294fe",
+        "android_client_info": {
+          "package_name": "com.example.ears"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751174768859-2emif87mursn1iuit7kvgallu7g25fji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm66aWK9vCPN3EpUwqcT72LOW97k_mLoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751174768859-2emif87mursn1iuit7kvgallu7g25fji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751174768859:android:36b88cd8d9df55427294fe",
+        "android_client_info": {
+          "package_name": "com.system.ears"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751174768859-2emif87mursn1iuit7kvgallu7g25fji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm66aWK9vCPN3EpUwqcT72LOW97k_mLoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751174768859-2emif87mursn1iuit7kvgallu7g25fji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
